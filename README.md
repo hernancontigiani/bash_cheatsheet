@@ -5,6 +5,14 @@ Comandos útiles de bash
 ```sh
 $ sudo du -sh *
 ```
+Ordenado por tamaño de menor a mayor:
+```sh
+$ sudo du -sh * | sort -h
+```
+Ordenado por tamaño de mayor a menos:
+```sh
+$ sudo du -sh * | sort -rh
+```
 
 ### Buscar archivos o contenido
 Buscar por un archivo

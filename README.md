@@ -1,4 +1,4 @@
-# bash_cheatsheet
+# Bash Cheatsheet
 Comandos útiles de bash
 
 ### Visualizar el consumo de espacio por carpetas

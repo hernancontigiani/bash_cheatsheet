@@ -33,7 +33,7 @@ Limpiar todos los logs más viejos a 2 días
 ```
 $ journalctl --vacuum-time=2d
 ```
-Forzar la limpieza del syslog (de /var/log):
+Forzar la limpieza del syslog (de /var/log):\
 https://stackoverflow.com/questions/35638219/ubuntu-large-syslog-and-kern-log-files
 ```
 $ sudo su

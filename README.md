@@ -61,3 +61,7 @@ Agregar el parámetro maxsize:
     endscript
 }
 ```
+
+### Problemas en ubuntu:
+i2c_hid_acpi 2c_hid_get_input: incomplete report:\
+https://askubuntu.com/questions/1365175/var-system-journal-logs-flooded-with-i2c-hid-i2c-hid-get-input-incomplete-repor
